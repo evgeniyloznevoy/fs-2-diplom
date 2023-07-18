@@ -40,5 +40,5 @@ Laravel
 ## Доступы
 
 - http://127.0.0.1:8000/admin
-- login: admin@gmail.com
-- password: admin1234
+- login: admin@yandex.ru
+- password: qwerty12345
